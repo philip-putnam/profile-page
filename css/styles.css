@@ -16,6 +16,23 @@ body {
   padding-top: 10px;
 }
 
+.project-title {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.project {
+  float: left;
+  border: 2px solid black;
+  width: 334px;
+  margin-left: 20px;
+  overflow: hidden;
+}
+
+.project-body {
+  padding: 3px;
+}
+
 @media screen and (max-width: 992px) {
   header h1 {
     text-align: center;
