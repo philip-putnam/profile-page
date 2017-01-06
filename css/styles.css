@@ -1,18 +1,25 @@
 body {
   background-color: #e6faff;
+  font-family: Georgia, serif;
+}
+
+p {
+  font-size: 17px;
+}
+
+.special {
+  font-weight: 800;
+  font-size: 18px;
+  color: #ff6699;
 }
 
 .container-fluid {
   margin-top: 10px;
 }
 
-/*.container img {
-  float: left;
-}*/
-
 .well {
   background: url(../img/ppBanner.png);
-  color: #ffffb3;
+  color: #00ffff;
   border: 2px solid black;
   padding-top: 10px;
 }
