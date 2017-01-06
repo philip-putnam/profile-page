@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color: #e6faff;
 }
 
 .container-fluid {
@@ -11,7 +11,8 @@ body {
 }*/
 
 .well {
-  background-color: white;
+  background: url(../img/ppBanner.png);
+  color: #ffffb3;
   border: 2px solid black;
   padding-top: 10px;
 }
@@ -31,6 +32,14 @@ body {
 
 .project-body {
   padding: 3px;
+}
+
+.container-fluid:nth-last-of-type(1) {
+  clear: both;
+}
+
+.container-fluid footer {
+  text-align: center;
 }
 
 @media screen and (max-width: 992px) {
