@@ -1,13 +1,26 @@
 body {
-  background-color: black;
+  background-color: white;
+}
+
+.container-fluid {
+  margin-top: 10px;
+}
+
+.container img {
+  float: left;
 }
 
 .well {
   background-color: white;
   border: 2px solid black;
+  padding-top: 10px;
 }
 
 @media screen and (max-width: 992px) {
   header h1 {
     text-align: center;
   }
+  .container-fluid {
+    margin-top: 3px;
+  }
+}
