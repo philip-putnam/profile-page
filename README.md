@@ -9,11 +9,11 @@
 ### Setup/Installation Instructions:
 
 #### Instruction set #1:
-#### _On a computer with compatible web browser, [click here](http://www.philip-putnam.github.io/profile-page to visit the website_
+#### _1. On a computer with compatible web browser, (http://www.philip-putnam.github.io/profile-page to visit the website_
 
 #### Instruction set #2:  
-#### _Clone repository located at https://github.com/philip-putnam/profile-page.git to your machine_
-#### _With a compatible web browser installed on your machine open index.html_
+#### _1. Clone repository located at https://github.com/philip-putnam/profile-page.git to your machine_
+#### _2. With a compatible web browser installed on your machine open index.html_
 
 ### Known Bugs:
 
