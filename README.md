@@ -22,3 +22,7 @@
 ## Contact:
 
 ### _Please contact Philip Putnam for support or found bugs_
+
+*This software is licensed under the MIT license*
+
+Copyright (c) 2017 ##_Philip Putnam_**
