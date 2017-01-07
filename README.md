@@ -25,4 +25,4 @@
 
 *This software is licensed under the MIT license*
 
-Copyright (c) 2017 ##_Philip Putnam_**
+Copyright (c) 2017 **_Philip Putnam_**
